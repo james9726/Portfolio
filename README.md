@@ -13,7 +13,7 @@
   조성 합니다.
 
 ## 공허한 내용  
-* 참여도 : 20%
+* 참여도 : 30%
 * Websocket을 활용한 실시간 채팅 서비스, Portfolio 페이지 기능 구현
 * 데이터 요청 및 출력: jQuery, Ajax
 * 웹 화면 구성: HTML, CSS, BootStrap, JavaScript
