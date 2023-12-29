@@ -1,5 +1,5 @@
 # 이승준 Portfolio
-## undefined
+## 팀명: undefined
 
 ## 프로젝트 (Korea IT Academy)
 스프링 부트와 공공 데이터 API를 활용한 개발자 커뮤니티 사이트 [클릭](https://github.com/SpringFirstProjectTogether/UNDEFINED_Final)
